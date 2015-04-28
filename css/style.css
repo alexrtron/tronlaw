@@ -35,7 +35,7 @@
 	{
 		font-family: 'Crimson Text', serif;
 		font-weight: 400;
-		color: #6b7770;
+		color: #634020;
 		font-size: 12pt;
 		line-height: 2em;
 	}
@@ -45,7 +45,7 @@
 		font-family: 'Crimson Text', serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #634020;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -82,7 +82,7 @@
 	b, strong
 	{
 		font-weight: 700;
-		color: #6b7770;
+		color: #634020;
 	}
 	
 	i, em
@@ -521,7 +521,7 @@
 				font-family: 'Crimson Text', serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #6b7770;
+				color: #634020;
 			}
 		
 			form input[type="text"],
@@ -626,7 +626,7 @@
 					font-family: 'Crimson Text', serif;
 					font-weight: 700;
 					text-transform: uppercase;
-					color: #6b7770;
+					color: #634020;
 				}
 			
 				table.default thead
@@ -637,6 +637,7 @@
 				
 				table.default tfoot
 				{
+                =
 				}
 				
 				table.default tbody
@@ -730,7 +731,7 @@
 	{
 		background: #fff;
 		border-top: solid 5px #e3daa8;
-		border-bottom: solid 5px #c1cac5;
+		border-bottom: solid 5px #634020;
 	}
 	
 /*********************************************************************************/

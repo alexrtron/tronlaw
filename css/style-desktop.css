@@ -347,6 +347,7 @@
 				#nav li.active span
 				{
 					background: #e3daa8;
+                    opacity: 0.8;
 					color: #fff;
 				}
 
@@ -363,7 +364,6 @@
 	.dropotron
 	{
 		background: #634020;
-        opacity: 0.2;
 		color: #e3daa8;
 		border-radius: 6px;
 		line-height: 2.75em;
