@@ -73,6 +73,7 @@
 	{
 		color: #006376;
 		text-decoration: underline;
+        
 	}
 
 		a:hover
@@ -127,6 +128,7 @@
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 3em;
+        font-family: open-sans;
 	}
 	
 	/* Section/Article */

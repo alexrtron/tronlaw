@@ -236,7 +236,7 @@
 
 	.sidebar
 	{
-		border-top: solid 2px #e7eae8;
+		border-top: solid 2px #e3daa8;
 		padding-top: 5em;
 		margin-top: 5em;
         font-family: 'Crimson Text', serif;
@@ -378,7 +378,7 @@
 
 	#titleBar
 	{
-		background-color: rgba(21,38,23,0.8);
+		background-color: #634020;
 		background-image: url('images/overlay.png');
 	}
 
@@ -391,7 +391,7 @@
 			text-transform: uppercase;
 			font-size: 1.25em;
 			line-height: 44px;
-			color: #fff;
+			color: #e3daa8;
 			z-index: 1000;
 			text-align: center;
 		}
@@ -423,7 +423,7 @@
 				width: 44px;
 				height: 44px;
 				content: '\f0c9';
-				color: #fff;
+				color: çç;
 				text-align: center;
 				line-height: 44px;
 				font-size: 20px;
@@ -436,7 +436,7 @@
 
 	#navPanel
 	{
-		background-color:		#353c37;
+		background-color:		#634020;
 		background-image:		url('images/overlay.png'),		-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5));
 		background-image:		url('images/overlay.png'),		-webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5));
 		background-image:		url('images/overlay.png'),		-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5));
@@ -465,8 +465,8 @@
 			height: 44px;
 			line-height: 44px;
 			padding: 0 1em 0 1em;
-			color: #888;
-			color: rgba(255,255,255,0.5);
+			color: #e3daa8;
+			color: #fff;
 			border-top: solid 2px rgba(87, 93, 89, 0.15);
 		}
 		
@@ -480,4 +480,4 @@
 			#navPanel .indent-3 { display: inline-block; width: 3em; }
 			#navPanel .indent-4 { display: inline-block; width: 4em; }
 			#navPanel .indent-5 { display: inline-block; width: 5em; }
-			#navPanel .depth-0 { color: #fff; }
+			#navPanel .depth-0 { color: #e3daa8; }
