@@ -399,7 +399,7 @@
 			.dropotron li.active > span
 			{
 				color: #fff;
-				background: #7B8780;
+				background: #634020;
 			}
 
 			.dropotron li:first-child
@@ -420,7 +420,7 @@
 				left: 50%;
 				margin-left: -1em;
 				top: -0.65em;
-				border-bottom: solid 1em #6B7770;
+				border-bottom: solid 1em #634020;
 				border-left: solid 1em transparent;
 				border-right: solid 1em transparent;
 			}
