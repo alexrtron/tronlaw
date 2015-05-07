@@ -134,7 +134,7 @@
 
     ul, ol, dl
     {
-       font-family: 'Crimson Text', serif; 
+       font-family: 'Open Sans', sans-serif; 
     }
     
 	
@@ -742,6 +742,7 @@
 		background: #fff;
 		border-top: solid 5px #e3daa8;
 		border-bottom: solid 5px #634020;
+    
 	}
 	
 /*********************************************************************************/
